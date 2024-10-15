@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PJ Piatt - Career Profile</title>
+</head>
+<body>
+    <header>
+        <h1>PJ Piatt</h1>
+        <p>IT Specialist | Technical Support | Cybersecurity Enthusiast</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Dynamic IT specialist with over 10 years of experience in technical support, system administration, and cloud computing. Adept at managing complex infrastructures, troubleshooting technical issues, and optimizing system performance to enhance efficiency and user satisfaction. Skilled in implementing security measures, leading cross-functional teams, and utilizing AI-driven solutions to streamline processes. Expertise includes network management, SaaS applications, and automation technologies like ChatGPT, with a proven track record in high-growth startups and enterprise environments.</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Technical Support</li>
+            <li>System Administration</li>
+            <li>Cloud Computing</li>
+            <li>AI and Automation</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <p>Below are some key projects I’ve worked on:</p>
+
+    <h3>Jira Service Management Cloud Migration</h3>
+    <p>
+        <strong>Role</strong>: Project Lead <br>
+        Led the migration from Jira Service Desk to Jira Service Management Cloud, improving internal efficiency and reducing time-to-resolution by 30%.
+        <br><a href="#">View Repository</a>
+    </p>
+
+    <h3>IT Department Intranet SharePoint Site</h3>
+    <p>
+        <strong>Role</strong>: Designer & Implementer <br>
+        Designed and implemented a SharePoint site for the IT department, centralizing documentation and enhancing internal communication. Increased IT operations efficiency by 25%.
+        <br><a href="#">View Repository</a>
+    </p>
+
+    <h3>AI Integration for Technical Support</h3>
+    <p>
+        <strong>Role</strong>: AI Task Force Team Member <br>
+        Integrated AI-driven solutions, including ChatGPT, into IT support workflows to automate responses and streamline processes, reducing manual work by 20%.
+        <br><a href="#">View Repository</a>
+    </p>
+
+    <h3>Network Infrastructure Upgrade</h3>
+    <p>
+        <strong>Role</strong>: Senior Technology Support Analyst <br>
+        Managed multi-tiered network infrastructure upgrades, including VPN and VLAN configurations, to support secure, high-availability operations globally.
+        <br><a href="#">View Repository</a>
+    </p>
+    </section>
+    <footer>
+        <p>Contact: pj.piatt@icloud.com | LinkedIn: <a href="https://www.linkedin.com/in/pj-piatt">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
