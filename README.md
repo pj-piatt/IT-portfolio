@@ -48,5 +48,3 @@ I'm an experienced IT professional with over a decade of success supporting user
 🔗 [LinkedIn](https://www.linkedin.com/in/pj-piatt)
 
 ---
-
-[PJ_Piatt_Resume.pdf](https://github.com/user-attachments/files/20534724/IT.Manager.Resume.PJ.Piatt.Public.pdf)
