@@ -49,3 +49,4 @@ I'm an experienced IT professional with over a decade of success supporting user
 
 ---
 
+[PJ_Piatt_Resume.pdf](https://github.com/user-attachments/files/20534724/IT.Manager.Resume.PJ.Piatt.Public.pdf)
